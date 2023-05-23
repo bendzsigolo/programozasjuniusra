@@ -1,0 +1,9 @@
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\fappjuniusifeladat.csproj.AssemblyReference.cache
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\MainWindow.g.cs
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\App.g.cs
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\fappjuniusifeladat_MarkupCompile.cache
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\MainWindow.baml
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\fappjuniusifeladat.g.resources
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\fappjuniusifeladat.Properties.Resources.resources
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\fappjuniusifeladat.csproj.GenerateResource.cache
+C:\Users\Informatika\source\repos\fappjuniusifeladat\fappjuniusifeladat\obj\Debug\fappjuniusifeladat.csproj.CoreCompileInputs.cache
